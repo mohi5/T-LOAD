@@ -80,3 +80,4 @@ https://www.noob-hackers.com
 ### Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+***you can use this tool for fun with your friends***
